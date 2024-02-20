@@ -1,4 +1,4 @@
-# catalogo_bratz
+# catalogo_floral
 
 A new Flutter project.
 
